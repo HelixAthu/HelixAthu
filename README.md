@@ -18,14 +18,14 @@
 
 ---
 
-<h1 align="center">Hey there, I am Helika Athukoralla 👋</h1>
+<h1 align="center">Hey there, I am Helika 👋</h1>
 
 ---
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Hi, I’m Helika, a Software Engineering undergraduate at UCLan with a passion for building across the stack.<br><br>
+A Software Engineering undergraduate at UCLan with a passion for building across the stack.<br><br>
 💻 Skilled in Web Development (HTML, CSS, JavaScript, Angular)<br><br>
 📱 Experienced in Cross‑Platform App Development with Flutter<br><br>
 🔧 Backend & Databases: Firebase and MongoDB<br><br>
