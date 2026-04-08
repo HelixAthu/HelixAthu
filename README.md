@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Helika%20Athukoralla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Life-long%20Learner%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<img height="422" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" />
+<img height="500" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" />
 </div>
 
 ---
