@@ -90,7 +90,6 @@ I enjoy turning ideas into real-world applications, bridging front‑end design 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelixAthu&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HelixAthu&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
