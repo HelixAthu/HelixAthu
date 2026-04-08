@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
 A Software Engineering undergraduate at UCLan with a passion for building across the stack.<br><br>
