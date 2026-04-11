@@ -26,7 +26,7 @@
 
 <p align="left">
 A Software Engineering undergraduate at UCLan with a passion for building across the stack.<br><br>
-💻 Skilled in Web Development (HTML, CSS, JavaScript, Angular)<br><br>
+💻 Skilled in Web Development (HTML, CSS, JavaScript, React)<br><br>
 📱 Experienced in Cross‑Platform App Development with Flutter<br><br>
 🔧 Backend & Databases: Firebase and MongoDB<br><br>
 🖥️ Proficient in C++, C#, and Java for versatile software solutions<br><br>
