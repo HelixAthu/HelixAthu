@@ -30,7 +30,7 @@ A Software Engineering undergraduate at UCLan with a passion for building across
 📱 Experienced in Cross‑Platform App Development with Flutter<br><br>
 🔧 Backend & Databases: Firebase and MongoDB<br><br>
 🖥️ Proficient in C++, C#, and Java for versatile software solutions<br><br>
-🎨 Creative with Blender 3D for design and visualization<br><br>
+🎨 Creative with Blender 3D and Figma for design and visualization<br><br>
 🚀 Currently working on FocusPath, a unique study planner project designed to help students stay organized and productive<br><br>
 🌱 Always learning and exploring new technologies<br><br>
 I enjoy turning ideas into real-world applications, bridging front‑end design with back‑end logic, and experimenting with creative tech. My goal is to grow as a full‑stack software engineer while collaborating on projects that make an impact.
