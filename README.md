@@ -90,7 +90,6 @@ I enjoy turning ideas into real-world applications, bridging front‑end design 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelixAthu&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ---
