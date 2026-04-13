@@ -18,7 +18,7 @@
 
 ---
 
-<h1 align="center">Hey there, I am Helika 👋</h1>
+<h1 align="center">Hey there, I'm Helika 👋</h1>
 
 ---
 
