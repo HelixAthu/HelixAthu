@@ -106,6 +106,7 @@ I enjoy turning ideas into real-world applications, bridging front‑end design 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelixAthu&theme=midnight-purple&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelixAthu&layout=compact&theme=midnight-purple&hide_border=true" alt="top languages" />
 </p>
 
 ---
